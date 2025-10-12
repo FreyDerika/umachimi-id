@@ -68,7 +68,7 @@
             "text": "Admire Vega sedang mencari kata yang tepat. Dia sudah membuat keputusan,\ntapi tidak tahu cara terbaik untuk mengatakannya."
         },
         {
-            "text": "Namun, ada perasaan penuh perhatian dan kepedulian yang terpancar darinya…",
+            "text": "Namun, ada perasaan penuh perhatian dan \nkepedulian yang terpancar darinya…",
             "choice_data_list": [
                 "Jangan khawatir.",
                 "Jangan khawatir."
@@ -94,7 +94,7 @@
             "text": "Admire Vega memilih rencana latihan yang bisa dia lakukan sendiri."
         },
         {
-            "text": "Saat dia menjalani latihannya, aku terus mengawasinya dan tetap mendukungnya sebagai pelatihnya."
+            "text": "Saat dia menjalani latihannya, aku terus mengawasinya \ndan tetap mendukungnya sebagai pelatihnya."
         },
         {
             "text": "Kemudian malam tiba. Aku duduk sendirian, menatap Segitiga Musim Panas\nsambil memegang buku cerita yang direkomendasikan Admire Vega padaku.",
@@ -124,7 +124,7 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Latihan hari ini… sangat mudah dilakukan. Aku merasa saat terus berusaha… aku benar-benar mencapai sesuatu.",
+            "text": "Latihan hari ini… sangat mudah dilakukan. Aku merasa saat terus \nberusaha… aku benar-benar mencapai sesuatu.",
             "name": "Admire Vega",
             "choice_data_list": [
                 "Serius!?"
@@ -158,7 +158,7 @@
             "text": "Aku tidak tahu banyak tentang adiknya."
         },
         {
-            "text": "Tapi yang aku tahu adalah, memikirkan adiknya membuat dia merasa sangat terluka. Karena itu…",
+            "text": "Tapi yang aku tahu adalah, memikirkan adiknya\nmembuat dia merasa sangat terluka. Karena itu…",
             "choice_data_list": [
                 "Jika kau benar-benar berlari demi dirinya…",
                 "Jika kau benar-benar berlari demi dirinya…"
@@ -207,14 +207,14 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Admire Vega duduk di sampingku dan menatap langit malam yang berkilauan dengan indah…"
+            "text": "Admire Vega duduk di sampingku dan \nmenatap langit malam yang berkilauan dengan indah…"
         },
         {
             "text": "Kurasa aku bisa mengajarimu sedikit tentang bintang-bintang…",
             "name": "Admire Vega"
         },
         {
-            "text": "Lalu, dia dengan lembut menjelaskan benda-benda berkilau yang terletak miliaran tahun cahaya jauhnya."
+            "text": "Lalu, dia dengan lembut menjelaskan \nbenda-benda berkilau yang terletak miliaran tahun cahaya jauhnya."
         }
     ],
     "title": "Jembatan Surgawi yang Terhubung"

@@ -24,14 +24,17 @@
     },
     {
       "text": "Hah Hah Hah Hah! Jika kita bagaikan bintang fana, mungkin kita bisa meraih puncak jauh itu! Namun untuk mencapainya, harus mengorbankan raga!",
-      "name": "TM Opera O"
+      "name": "TM Opera O",
+            "choice_data_list": [
+                "Maksudmu dia di gunung?"
+            ]
     },
     {
       "text": "Kalau diucapkan secara terus terang, itu benar! Dan untuk menjelaskannya lebih terus terang lagi, \"dia pergi ke sana untuk lari lintas alam!\"",
       "name": "TM Opera O"
     },
     {
-      "text": "I, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan… K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
+      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan… K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
       "name": "Meisho Doto"
     },
     {
