@@ -41,20 +41,7 @@ Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem,
 
 ---
 
-## 🛠️ Cara Instalasi
-1. Download Reponya 
-   ``` Blm bisa download otomatis
-2. Masuk ke folder android/media/jp.co.cygamesumamusume/hachimi 
-   ``
-   Reload Game dan Pilih English > UmachimiID / recplace loclaize_data dari repo yang di download
-   ```
-3. Enjoy Playing 🚀  
-
 ---
-
-## 📝 Catatan Rilis
-📌 **Versi Alpha 0.1** – Progress awal, UI 20%, skill deskripsi full  
-📌 **Versi Alpha 0.2** – Optimisasi nama skill + dokumentasi  
 
 *(lihat changelog lengkap di [Release Notes](./CHANGELOG.md))*  
 
@@ -65,13 +52,13 @@ Kami terbuka untuk kontribusi! 🙌
 Kamu bisa bantu lewat:
 - Koreksi terjemahan 📝  
 - Tambah dokumentasi 📚  
-- Share ide kreatif 🎨  
+- Masukkin Bahasa Daerah 🎨  
 
 Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)  
 
 ---
 
-## Contributor ❤
+## Contributor Utama ❤
 @Xmatography
 @Vin..Tar
 @MisuMasu
