@@ -2,32 +2,32 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Do you believe in what you cannot see…"
+            "text": "Apa kau percaya dengan sesuatu yang tidak terlihat?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You really are fast… \nI'm going to have to train even harder…"
+            "text": "....Fufu, kau sangat cepat.\nAku harus latihan lebih giat lagi..."
         },
         {
-            "text": "…in what can only be seen through the eyes of another…?"
+            "text": "Sesuatu yang hanya bisa dilihat dengan indra keenam--"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "To catch her… to catch my… friend…"
+            "text": "Untuk mencapai dia...\"teman\" ku.."
         },
         {
-            "text": "Who are you…?"
+            "text": "Kau ini, sebenarnya siapa…?"
         },
         {
-            "text": "By the time I noticed I didn't have \nmy phone, it was already dark."
+            "text": "Aku baru sadar handphone ku hilang,\npadahal sudah mau gelap."
         },
         {
-            "text": "I'd been watching the Uma Musume training that \nday… I must have left it at the track."
+            "text": "Aku tadi menonton Uma Musume lagi latihan,\nPasti ketinggalan disana."
         },
         {
-            "text": "I rushed back, and found it by the blinking \nof the low battery light.",
+            "text": "Aku bergegas kesana dan menemukannya dari\nkedipan indikator batrai mau habis.",
             "choice_data_list": [
-                "There it is!"
+                "Ketemu!"
             ]
         },
         {
@@ -43,17 +43,17 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I'm okay. I can still run."
+            "text": "Ha....Aku tak apa...masih bisa lari..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Again… and again…… as many times as it takes…"
+            "text": "....Ya, lagi dan lagi, berapa\nkali ini berulang..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I love to run… with you…",
+            "text": "Aku suka berlari...denganmu..",
             "choice_data_list": [
-                "(Who is she talking to…?)"
+                "(Dia ngomong sama siapa…?)"
             ]
         },
         {
@@ -62,7 +62,7 @@
         {
             "text": "(bonk!!)",
             "choice_data_list": [
-                "What the…?!"
+                "Lah…?!"
             ]
         },
         {
